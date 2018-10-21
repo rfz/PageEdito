@@ -1,9 +1,9 @@
-###### Welcome to PageEdito Download page!
+###### Welcome to PageEditor Download page!
 
   ![image](/pe_logo.png)
 ## [免费下载](http://i.5k5.top/app/pageeditor/pageeditor.apk)
 
-如果您觉得PageEdito好用的话，可以分享给朋友哦。浏览器输入[pe.5k5.top](https://pe.5k5.top/)，即可进入本网站，时刻准备更新精彩内容。
+如果您觉得PageEditor好用的话，可以分享给朋友哦。浏览器输入[pe.5k5.top](https://pe.5k5.top/)，即可进入本网站，时刻准备更新精彩内容。
 
 Browse [k5k.top](https://5k5.top/)to find more interesting apps！
 
@@ -11,7 +11,7 @@ Browse [k5k.top](https://5k5.top/)to find more interesting apps！
 
 ### 应用介绍
 
-PageEdito是在手机编辑发开网页的应用，暂时只提供HTML编辑。编辑制作HTML（标准通用标记语言下的一个应用）的工具，可无限制创建html文件，自定义编写代码，支持运行html。
+PageEditor是在手机编辑发开网页的应用，暂时只提供HTML编辑。编辑制作HTML（标准通用标记语言下的一个应用）的工具，可无限制创建html文件，自定义编写代码，支持运行html。
 
 ```markdown
 HTML标签事例
