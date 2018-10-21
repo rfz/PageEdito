@@ -1,7 +1,7 @@
-######Welcome to PageEdito Download page!
+###### Welcome to PageEdito Download page!
 
   ![image](/pe_logo.png)
-##[免费下载](http://i.5k5.top/app/pe/pe.apk)
+## [免费下载](http://i.5k5.top/app/pe/pe.apk)
 
 您可以浏览[PageEdito官方网站](https://pe.5k5.top/)查看更新精彩内容。
 
@@ -211,5 +211,5 @@ HTML标签事例
 <var></var>用于显示变量
 ```
 
-######Copyright©2018 5k5.top 版权所有. 
+###### Copyright©2018 5k5.top 版权所有. 
 
