@@ -3,7 +3,7 @@
   ![image](/pe_logo.png)
 ## [免费下载](http://i.5k5.top/app/pe/pe.apk)
 
-您可以浏览[PageEdito官方网站](https://pe.5k5.top/)查看更新精彩内容。
+如果您觉得PageEdito好用的话，可以分享给朋友哦。浏览器输入[pe.5k5.top](https://pe.5k5.top/)，即可进入本网站，时刻准备更新精彩内容。
 
 Browse [k5k.top](https://5k5.top/)to find more interesting apps！
 
