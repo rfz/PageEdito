@@ -1,6 +1,6 @@
 ######Welcome to PageEdito Download page!
 
-  ![image](/logo/pe_logo.png)
+  ![image](/pe_logo.png)
 ##[免费下载](http://i.5k5.top/app/pe/pe.apk)
 
 您可以浏览[PageEdito官方网站](https://pe.5k5.top/)查看更新精彩内容。
